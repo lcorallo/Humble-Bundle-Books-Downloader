@@ -4,7 +4,7 @@ This JavaScript script enables you to effortlessly download all the books from y
 
 ## How to Get Started
 
-1. First things first, copy the code from the [script.js file](script.js) 📜.
+1. First things, copy the code from the [script.js file](script.js) 📜.
 
 2. Head over to your [Humble Bundle Home Library](https://www.humblebundle.com/home/library) 🌐.
 
